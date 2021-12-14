@@ -1,8 +1,7 @@
 ﻿using System.Drawing.Printing;
-using System.Runtime.CompilerServices;
 using HiQPdf;
 
-namespace PrintLib
+namespace OneLIS.Printer
 {
     public class BarCodePrinter
     {

@@ -1,7 +1,7 @@
 ﻿using System.Drawing.Printing;
 using HiQPdf;
 
-namespace PrintLib
+namespace OneLIS.Printer
 {
     public class SequencePrinter
     {

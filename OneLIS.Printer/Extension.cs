@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace PrintLib
+namespace OneLIS.Printer
 {
     public static class Extension
     {

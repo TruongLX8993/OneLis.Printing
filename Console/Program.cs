@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Drawing.Printing;
 using System.IO;
-using PrintLib;
+using OneLIS.Printer;
 
 namespace Console
 {

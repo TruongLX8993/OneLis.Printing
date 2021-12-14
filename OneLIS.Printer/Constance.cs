@@ -1,4 +1,4 @@
-﻿namespace PrintLib
+﻿namespace OneLIS.Printer
 {
     internal class Constance
     {

@@ -2,7 +2,7 @@
 using System.Xml;
 using System.Xml.Xsl;
 
-namespace PrintLib
+namespace OneLIS.Printer
 {
     public static class XsltUtil
     {
